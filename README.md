@@ -58,13 +58,12 @@ We're pretty excited about what we've built:
 * Made it so simple that anyone can use it
 * Connected patients and providers in real-time
 
-
-## Dataset used:
-- https://www.kaggle.com/datasets/thedevastator/comprehensive-medical-q-a-dataset
-
 ## Demo credentials to try MediConnect
 - username:admin
 - password:admin123
+
+## Dataset used:
+- https://www.kaggle.com/datasets/thedevastator/comprehensive-medical-q-a-dataset
 
 ## Try MediConnect
 - https://mediconnect-rho.vercel.app/
