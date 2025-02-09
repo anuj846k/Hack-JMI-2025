@@ -81,3 +81,8 @@ We're just getting started! Coming up:
 * Taking MediConnect worldwide with multiple languages
 * Adding support for health-tracking devices
 * Building specialized tools for different medical fields
+
+
+## Team
+- [ayush-that](https://github.com/ayush-that)
+- [MohitGoyal09](https://github.com/MohitGoyal09)
