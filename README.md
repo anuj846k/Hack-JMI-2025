@@ -2,6 +2,10 @@
 
 "AI-powered healthcare platform that streamlines patient care with personalized insights, secure data management, and 24/7 support - making quality healthcare more accessible and efficient."
 
+## Demo credentials to try MediConnect
+- username:admin
+- password:admin123
+
 ## Inspiration
 Let's face it - healthcare is broken. Doctors are overwhelmed, patients are frustrated with long wait times, and important health information gets lost in outdated systems. We built MediConnect because we believe everyone deserves better healthcare access. Our goal? Use modern technology to make healthcare work better for both patients and providers.
 
@@ -57,10 +61,6 @@ We're pretty excited about what we've built:
 * Built something that's both secure and HIPAA-compliant
 * Made it so simple that anyone can use it
 * Connected patients and providers in real-time
-
-## Demo credentials to try MediConnect
-- username:admin
-- password:admin123
 
 ## Dataset used:
 - https://www.kaggle.com/datasets/thedevastator/comprehensive-medical-q-a-dataset
