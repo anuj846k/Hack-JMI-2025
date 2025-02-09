@@ -5,6 +5,10 @@
 ## Inspiration
 Let's face it - healthcare is broken. Doctors are overwhelmed, patients are frustrated with long wait times, and important health information gets lost in outdated systems. We built MediConnect because we believe everyone deserves better healthcare access. Our goal? Use modern technology to make healthcare work better for both patients and providers.
 
+## Yt Video 
+
+https://www.youtube.com/watch?v=OG-y4hogvfk
+
 ## What it does
 Think of MediConnect as your healthcare command centre:
 * Get personalized health recommendations powered by AI
@@ -85,4 +89,4 @@ We're just getting started! Coming up:
 
 ## Team
 - [ayush-that](https://github.com/ayush-that)
-- [MohitGoyal09](https://github.com/MohitGoyal09)
+- [MohitGoyal09](https://github.com/MohitGoyal09)   
